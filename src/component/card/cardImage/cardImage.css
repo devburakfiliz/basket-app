@@ -1,0 +1,13 @@
+.card-image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+.card-image > img{
+    height: 200px;
+    object-fit: fill;
+}
